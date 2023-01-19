@@ -1,0 +1,6 @@
+ Financial Analysis
+-----------------------
+Total Number of Months: 86
+Total $ 22564198
+Average Change in P&L $ -8311.11
+Greatest Increase in Profit: 16-Aug ($1862002Greatest Decrease in Profit: 14-Feb ($-1825558
